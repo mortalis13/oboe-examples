@@ -15,7 +15,7 @@
 #
 
 cmake_minimum_required(VERSION 3.4.1)
-# project(hello-oboe LANGUAGES CXX)
+project(hello-oboe LANGUAGES CXX)
 
 find_package(oboe REQUIRED CONFIG)
 
